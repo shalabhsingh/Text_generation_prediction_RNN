@@ -10,7 +10,7 @@ For more information about the project details, see [this blog post](https://sha
 * tabulate
 
 ## How to Run?
-To re-train the model, run the ```train.py``` file and fit the model. Next import the updated model in ```text_generation.ipynb``` and 
+To re-train the model, run the ```train.ipynb``` file and fit the model. Next import the updated model in ```text_generation.ipynb``` and 
 ```word_prediction.ipynb``` files and then run these codes to re-generate the output.
 
 ## Acknowledgements
